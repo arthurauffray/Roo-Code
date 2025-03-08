@@ -1,8 +1,6 @@
 # Roo Code Changelog
 
-## 3.8.2
-
-### Patch Changes
+## [3.8.2]
 
 - Add o3-mini support to openai compatible
 
